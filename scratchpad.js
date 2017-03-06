@@ -208,7 +208,7 @@ window.onload = function () {
     var link = document.createElement('a');
     link.textContent = "Fibonacci Sequence";
     link.href = "https://oeis.org/A000045";
-    link.target = "blank";
+    link.target = "_blank";
     say.appendChild(link);
     bigDiv.appendChild(say);
     document.querySelector('body').appendChild(bigDiv);
@@ -222,7 +222,7 @@ window.onload = function () {
     var link2 = document.createElement('a');
     link2.textContent = "Pell Sequence";
     link2.href = "https://oeis.org/A000129";
-    link2.target = "blank";
+    link2.target = "_blank";
     say2.appendChild(link2);
     bigDiv2.appendChild(say2);
     document.querySelector('body').appendChild(bigDiv2);
@@ -235,7 +235,7 @@ window.onload = function () {
     var link3 = document.createElement('a');
     link3.textContent = "Tribonacci Sequence";
     link3.href = "https://oeis.org/A000073";
-    link3.target = "blank";
+    link3.target = "_blank";
     say3.appendChild(link3);
     bigDiv3.appendChild(say3);
     document.querySelector('body').appendChild(bigDiv3);
