@@ -132,7 +132,7 @@ function tribHelper(n) {
 window.onload = function () {
     document.title = "Sequences";
 
-    var seqMax = 5;
+    var seqMax = 11;
 
     var bigDiv = document.createElement('div');
     bigDiv.setAttribute("class", "bigDiv red");
