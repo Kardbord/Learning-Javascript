@@ -197,6 +197,8 @@ function setStyles() {
 window.onload = function () {
     document.title = "Sequences";
 
+    setStyles();
+
     var seqMax = 11;
 
     var bigDiv = document.createElement('div');
