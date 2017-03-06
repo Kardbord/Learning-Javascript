@@ -1,3 +1,9 @@
+/*
+Note: This file is for the purposes of more easily viewing the styles for this web page.
+Changes made to this document will not be reflected on the web page, as all styles are hard coded
+in the setStyles() function in scratchpad.js
+*/
+
 .tree-left {
     float: left;
     display: inline-block;
