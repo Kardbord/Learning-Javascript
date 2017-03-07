@@ -162,7 +162,7 @@ function setStyles() {
         "}" +
         "" +
         ".trib-mid {" +
-        "    /*float: none;*/" +
+        "    float: right;" +
         "    display: inline-block;" +
         "    margin-right: 4px;" +
         "    margin-left: 4px;" +
